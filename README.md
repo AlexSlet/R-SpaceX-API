@@ -1,4 +1,4 @@
-# livelaunch
+# LaunchX
 
 > Nuxt.js + Vuetify.js project
 

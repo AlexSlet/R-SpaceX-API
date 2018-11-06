@@ -1,5 +1,7 @@
 # LaunchX
 
+https://launchx-qcmeweoyzn.now.sh/
+
 > Nuxt.js + Vuetify.js project
 
 ## Build Setup
